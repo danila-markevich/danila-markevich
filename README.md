@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**danila-markevich/danila-markevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Данила Маркевич**. Я .NET backend-разработчик из Беларуси.
 
-Here are some ideas to get you started:
+## 🛠 Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **C# / .NET 10**
+- **ASP.NET Core Web API** — контроллеры, DI
+- **Entity Framework Core** — ORM, миграции
+- **SQL Server**
+- **LINQ**, **Git**, **Swagger**
+
+## 📂 Проекты
+
+- [**MoviesApi**](https://github.com/danila-markevich/MoviesApi) — REST API для фильмотеки. Связи, DTO, валидация.
+- [**LibraryApi**](https://github.com/danila-markevich/LibraryApi) — REST API для библиотеки. CRUD, DTO, валидация.
+- [**ShopApi**](https://github.com/danila-markevich/ShopApi) — REST API для интернет-магазина. Связь Category → Product, DTO, валидация.
+
+## 📫 Связь
+
+- **Email:** markevich.d.s.27@gmail.com
+- **Location:** Polotsk, Belarus
